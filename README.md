@@ -1,4 +1,5 @@
-<h3><b> Hello 🌱 </b></h3> 
+<h3><b> Hello&nbsp; <img src="https://github.com/Rammsauer/rammsauer/blob/output/pic.png" width="25"/> </b></h3> 
+
 
 ![snake gif](https://github.com/Rammsauer/rammsauer/blob/output/github-contribution-grid-snake-dark.svg)
 
