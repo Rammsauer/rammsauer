@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3><b> Hi there 👋 </b</h3>
 
 <!--
 **Rammsauer/rammsauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
