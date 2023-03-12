@@ -1,6 +1,5 @@
 <h3><b> Hello 🌱 </b></h3> 
 
-
 ![snake gif](https://github.com/Rammsauer/rammsauer/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
